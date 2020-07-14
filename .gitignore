@@ -3,6 +3,14 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 /[Ll]ibrary/
+!AnnotationManager
+!AssetImportState
+!BuildPlayer.prefs
+!EditorOnlyScriptingSettings.json
+!expandedItems
+!LastBuild.buildreport
+!ScriptMapper
+!Style.catalog
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
